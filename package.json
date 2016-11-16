@@ -31,7 +31,7 @@
   ],
   "license": "CC-BY-4.0",
   "dependencies": {
-    "npm-run-all": "^2.3.0",
+    "npm-run-all": "^3.1.1",
     "riot": "^2.5.0",
     "riotcontrol": "0.0.3"
   },
@@ -46,11 +46,11 @@
     "babel-preset-es2015-riot": "^1.1.0",
     "cpy": "^4.0.1",
     "cpy-cli": "^1.0.1",
-    "css-loader": "^0.23.0",
+    "css-loader": "^0.25.0",
     "csswring": "^5.1.0",
     "postcss-custom-properties": "^5.0.0",
     "postcss-import": "^8.1.2",
-    "postcss-loader": "^0.9.1",
+    "postcss-loader": "^1.1.1",
     "postcss-nested": "^1.0.0",
     "riotjs-loader": "^3.0.0",
     "style-loader": "^0.13.0",
