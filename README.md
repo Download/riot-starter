@@ -1,5 +1,7 @@
 # Riot Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/riot-starter.svg)](https://greenkeeper.io/)
+
 A simple starter kit for [Riot](https://muut.com/riotjs/).
 
 ## Contents
